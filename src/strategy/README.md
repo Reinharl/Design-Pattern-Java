@@ -2,7 +2,7 @@
 
 ## Obbiettivo
 
-Observer è un **behavioral design pattern** che consente di definire una famiglia di algoritmi in classi distinte e
+Strategy è un **behavioral design pattern** che consente di definire una famiglia di algoritmi in classi distinte e
 rendere le loro istanze intercambiabili.
 
 ## UML
